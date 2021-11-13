@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning modern cutting edge technology
 - 🌱 I’m currently learning basic functioning of oracle , aws , azure cloud computing and python alongside
 - 💞️ I’m looking to collaborate on python
-  💻 if you have something where i can contribute on you please contact me at gopal.kmr@yahoo.com and let's create 
+  💻 Looking for some friend for collarbration on diffrent project
 - 📫 contact me at linkedin https://www.linkedin.com/in/gopalkumar0/ 
 
 <!---
