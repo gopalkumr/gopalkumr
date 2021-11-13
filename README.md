@@ -1,6 +1,6 @@
 - 👋 Hi, �
   😎I’m @gopalkumr. A information technology student from kalasalingam academy of research and education [KARE]
-- 👀 I’m interested in computer scienece theory and modern cutting edge technology
+- 👀 I’m interested in learning modern cutting edge technology
 - 🌱 I’m currently learning basic functioning of oracle , aws , azure cloud computing and python alongside
 - 💞️ I’m looking to collaborate on python
   💻 if you have something where i can contribute on you please contact me at gopal.kmr@yahoo.com and let's create 
