@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning modern cutting edge technology
 - 🌱 I’m currently learning basic DotNet MSSQL PYTHON CPP (obiviously html, css, js).
 - 💞️ I’m looking to collaborate on python
-  💻 Looking for some friend for collarbration on diffrent project
+  💻 Looking for some friend for collaboration on diffrent project
 - 📫 contact me at linkedin https://www.linkedin.com/in/gopalkumar0/ 
 
 <!---
