@@ -31,16 +31,15 @@ I love the entire process of developing creative websites. I love the challenge 
 
  ## 🌱 I'm currently learning
     
-       - 📱 Flutter
-      - Firebase
+   - 📱 Flutter
+   - Firebase
       - Deep learning
       - Google Cloud 
       
 ## 💼 Technical Skills
       
       
-      ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-      ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
       ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
       ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
       ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -49,24 +48,24 @@ I love the entire process of developing creative websites. I love the challenge 
       ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
       
       
-      </br>
+ </br>
       
-      ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
       ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
       ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
       
       
-      </br>
+  </br>
       
-      ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+  ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
       ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
       ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
       ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
       ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
       
-      ## 📝 Latest Blog Posts
+   ## 📝 Latest Blog Posts
       
-      - [Get started in programming for beginner](https://medium.com/@gopalkumr/how-to-learn-coding-for-beginners-e46fe8cc29bc)
+   - [Get started in programming for beginner](https://medium.com/@gopalkumr/how-to-learn-coding-for-beginners-e46fe8cc29bc)
        
      
       
