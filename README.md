@@ -1,10 +1,4 @@
-<html>
 
-<head><meta charset="utf-8">
-<title>My First Web Page</title>
-</head>
-
-<body>
 
     <p align="center">
         <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/91552766/222140214-41c3f517-b3d5-4265-ae25-767420ef115c.png" alt="my banner"></a>
@@ -84,8 +78,7 @@
       
       
       [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gopalkumr.gopalkumr)] <!--   (https://www.yushi.dev/) add your link here -->
-</body>
-</html>
+
 
 <!---
 gopalkumr/gopalkumr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
