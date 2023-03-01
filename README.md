@@ -33,8 +33,8 @@ I love the entire process of developing creative websites. I love the challenge 
     
    - 📱 Flutter
    - Firebase
-      - Deep learning
-      - Google Cloud 
+   - Deep learning
+   - Google Cloud 
       
 ## 💼 Technical Skills
       
