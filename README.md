@@ -19,17 +19,17 @@ I love the entire process of developing creative websites. I love the challenge 
 
  - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
       
-      ## 🔭 I'm currently working on
+  ## 🔭 I'm currently working on
       
-      - My old projects
-      - Project Hosting Website for making University people life easier
-      - Mobile + web Flutter app to solve farmer crops prestisige issue
-      - My next blog
-      - My Java skill
-      - My Firebase Skill
-      - My GCP skill
+   - My old projects
+   - Project Hosting Website for making University people life easier
+   - Mobile + web Flutter app to solve farmer crops prestisige issue
+   - My next blog
+   - My Java skill
+   - My Firebase Skill
+   - My GCP skill
 
- ## 🌱 I'm currently learning
+   ## 🌱 I'm currently learning
     
    - 📱 Flutter
    - Firebase
