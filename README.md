@@ -66,7 +66,7 @@ I love the entire process of developing creative websites. I love the challenge 
  </br>
  
   <p allign="center" >
-    <img width="400" src="https://appwrite.io/cards/makers/gopalkumr" alt="gopalkumr's Maker Card" />
+    <img width="400" src="https://cloud.appwrite.io/v1/cards/cloud?userId=645072143253af101ee2" alt="gopalkumr's Maker Card" />
 </p>
       
    ## 📝 Latest Blog Posts
