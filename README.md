@@ -21,15 +21,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
  - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
       
-  ## 🔭 I'm currently working on
-      
-   - My old projects
-   - My next blog page
-   - My Java skill
-   - My Firebase Skill
-   - My GCP skill
 
-   ## 🌱 I'm currently learning
+   ## 🌱 currently learning
     
    - 📱 Flutter
    - Firebase
