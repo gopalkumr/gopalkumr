@@ -8,7 +8,7 @@
  <h2 align="center">
       I Build Things For Web, Mobile. 
       </h2> 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. I love collaborating on Great Projects.
+I think Model Context Protocol (MCP) is software future. 
       
  ### 🤝 Connect with me:
  <a href="https://www.instagram.com/gopalkmrr/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="gopalkumrr | Instagram" width="21px"/></a>
