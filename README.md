@@ -6,7 +6,7 @@
       Hi there, I'm <a href="[https://www.yushi.dev/](https://www.linkedin.com/in/gopalkumar0)" target="_blank" rel="noreferrer">Gopal</a> 👋
       </h3>
  <h2 align="center">
-      I Build Things For Web, Mobile. 
+      I Build Things For Web, Mobile and Intelligence. 
       </h2> 
 I think Model Context Protocol (MCP) is software future. 
       
