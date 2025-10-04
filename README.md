@@ -3,7 +3,9 @@
       </p>
       
  <h3 align="center">
-      Hi there, I'm <a href="[https://www.yushi.dev/](https://www.linkedin.com/in/gopalkumar0)" target="_blank" rel="noreferrer">Gopal</a> 👋
+      Hi there, I'm <a href="[https://www.gopal.visionml.tech/](https://www.linkedin.com/in/gopalkumar0)" target="_blank" rel="noreferrer">Gopal Working as Software Engineer at 
+              </a> 
+              <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="amazon" />
       </h3>
  <h2 align="center">
       I Build Things For Web, Mobile and Intelligence. 
